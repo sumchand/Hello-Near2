@@ -1,0 +1,1 @@
+/mnt/c/Users/harshit/Desktop/Mcn\ Solution/near/hello-near/contract/target/wasm32-unknown-unknown/release/hello_near.wasm: /mnt/c/Users/harshit/Desktop/Mcn\ Solution/near/hello-near/contract/src/lib.rs
